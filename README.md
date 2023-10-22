@@ -8,7 +8,4 @@ Primeiramente você tem a opção de conectar em sua database, mas é necessári
 ![Link](https://imgur.com/luT3Aix.png)
 
 > Aqui está a tabela de departamentos, ela é uma estrutura que o professor do curso nos deixou utilizar, ela particularmente não tem nada demais, porém, ela armazena os vendedores de tal departamento e nós podemos manipular isto de diversas formas diferentes.
-![Link](https://imgur.com/DsOvEIj.png)
-
-
-Test
+![Image](https://imgur.com/DsOvEIj.png)
